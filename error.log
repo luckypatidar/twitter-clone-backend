@@ -1,0 +1,15 @@
+Time: 2023-08-21 02:58:23, level: error, message: ERROR IN CONNECTING DB:
+MongoServerSelectionError: Server selection timed out after 30000 ms
+Time: 2023-08-21 03:00:00, level: error, message: ERROR IN CONNECTING DB:
+MongoServerSelectionError: Server selection timed out after 30000 ms
+Time: 2023-08-21 03:14:07, level: error, message: Token missing from headers
+Time: 2023-08-21 03:14:16, level: error, message: Token missing from headers
+Time: 2023-08-21 19:13:13, level: error, message: ERROR IN CONNECTING DB:
+MongoServerSelectionError: Server selection timed out after 30000 ms
+Time: 2023-08-21 19:14:10, level: error, message: ERROR IN CONNECTING DB:
+MongoServerSelectionError: Server selection timed out after 30000 ms
+Time: 2023-08-21 19:14:59, level: error, message: ERROR IN CONNECTING DB:
+MongoNetworkTimeoutError: connection timed out
+Time: 2023-08-21 19:17:28, level: error, message: ERROR IN CONNECTING DB:
+MongoServerSelectionError: Server selection timed out after 30000 ms
+Time: 2023-08-21 19:21:44, level: error, message: Token missing from headers
